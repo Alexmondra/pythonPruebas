@@ -22,7 +22,7 @@ label.pack(pady=20)
 boton_r1 = tk.Button(root, text="Opción 1", command=ejecutar_r1)
 boton_r1.pack(pady=5)
 
-boton_r2 = tk.Button(root, text="Opción 2", command=ejecutar_r2)
+boton_r2 = tk.Button(root, text="Opción 221", command=ejecutar_r2)
 boton_r2.pack(pady=5)
 
 boton_salir = tk.Button(root, text="Salir", command=salir)
