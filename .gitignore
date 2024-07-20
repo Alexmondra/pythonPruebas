@@ -1,9 +1,0 @@
-# Ignorar todos los archivos compilados de Python
-*.pyc
-__pycache__/
-
-# Ignorar archivos de configuración de entorno
-.env
-.vscode/
-.idea/
- 
